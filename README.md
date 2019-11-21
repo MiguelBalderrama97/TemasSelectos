@@ -1,0 +1,2 @@
+# TemasSelectos
+Reconocimiento de Texto
