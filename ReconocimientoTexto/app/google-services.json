@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "452423541260",
+    "firebase_url": "https://temasselectos-2b536.firebaseio.com",
+    "project_id": "temasselectos-2b536",
+    "storage_bucket": "temasselectos-2b536.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452423541260:android:87e6138cd768029c1c8429",
+        "android_client_info": {
+          "package_name": "com.example.miguel.reconocimientotexto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452423541260-ka2c4iqtsto293vvgktfb4ait4ic29qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.miguel.reconocimientotexto",
+            "certificate_hash": "94206bf39f2648570c8afaa61a7a80fd4263d60c"
+          }
+        },
+        {
+          "client_id": "452423541260-1p0uel0lu5i3h3uu5j2j28u21jsn9r81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC28VXjL3ZDFUdF1z9grSRV1sg899z7xD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452423541260-1p0uel0lu5i3h3uu5j2j28u21jsn9r81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
