@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "877151005821",
+    "firebase_url": "https://temas-selectos-46626.firebaseio.com",
+    "project_id": "temas-selectos-46626",
+    "storage_bucket": "temas-selectos-46626.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877151005821:android:164e356894986db0fb9514",
+        "android_client_info": {
+          "package_name": "com.tec2.temasselectos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877151005821-n4nkloq81ql6568n273aa4lb70i4pplo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tec2.temasselectos",
+            "certificate_hash": "2825fabfd023202846b3e68aaeb1cd0358570507"
+          }
+        },
+        {
+          "client_id": "877151005821-t3lvlhv19bqcfkpdag8o39gfp1usp125.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwKxIPHyWOHVbw0uXa3Ac0jK09I2dNq2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877151005821-t3lvlhv19bqcfkpdag8o39gfp1usp125.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
